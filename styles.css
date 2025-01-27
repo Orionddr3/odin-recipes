@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+p {
+    color: black;
+    background-color: white;
+    font-family: 'Times New Roman', 'Verdana', serif, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+ul.links {
+    background-color: white;
+    text-align: center;
+    list-style-type: none;
+}
+
+ol.steps {
+    list-style-type: decimal;
+}
+
